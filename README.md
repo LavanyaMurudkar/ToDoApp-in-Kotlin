@@ -1,5 +1,18 @@
 # ToDoApp-in-Kotlin
-A simple ToDo app built with Kotlin and Jetpack Compose. It lets users add, complete, and delete tasks with a clean, reactive UI. The app uses ViewModel and state management for smooth updates, making task tracking easy and efficient on Android devices.
+ToDoApp-in-Kotlin is a simple and clean To-Do list app built using Kotlin and Jetpack Compose. It lets users add, complete, and delete tasks with a responsive UI powered by ViewModel and state management.
+
+✨ Features
+✅ Add, complete, and delete tasks with ease
+
+🧩 UI enhancements using Compose Modifier options
+
+📌 Custom layout with User ID on the left and Post ID on the right
+
+🎨 Encourages UI customization and layout experimentation
+
+❌ Delete individual ToDo items with a dedicated button
+
+
 
 ## 📱 Screenshots
 <p float="left">
