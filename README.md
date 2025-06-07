@@ -3,9 +3,9 @@ A simple ToDo app built with Kotlin and Jetpack Compose. It lets users add, comp
 
 ## 📱 Screenshots
 <p float="left">
-<img src="todo1.png" width="300"/> <img src="todo2.png" width="300"/> <img src="todo3.png" width="300"/>
+<img src="todo1.png" width="250"/> <img src="todo2.png" width="250"/> <img src="todo3.png" width="250"/>
 </p>
 
 ## 🎥 Demo
 
-<video src="https://user-images.githubusercontent.com/.../demo.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/59166901-196e-49a9-8525-9dae7b637320" controls width="600"></video>
